@@ -8,8 +8,9 @@ Front-end is built with React.JS
 Go to /client directory
 #### Step 2
 Install node packages
+
 `yarn install`
-### Run
+#### Run
 `yarn start`
 
 ## Back-end
@@ -19,11 +20,13 @@ Back-end is built with Ruby on Rails
 Go to /server directory
 #### Step 2
 Install gems
+
 `bundle install`
 #### Step 3
 Install DB (SQLite3)
+
 `rake db:migrate`
-### Run
+#### Run
 `rails s`
 
 *Now you will have your application available on localhost:4200*
